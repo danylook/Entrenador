@@ -1,0 +1,5 @@
+Funciona solo con 7 movimeintos
+
+
+MDF
+msys32-5
